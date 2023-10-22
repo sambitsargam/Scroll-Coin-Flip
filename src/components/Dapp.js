@@ -113,7 +113,7 @@ export class Dapp extends React.Component {
           </div>
         </div>
         <footer className="footer">
-          <p>Game Balance: {this.state.contractBalance} AVAX</p>
+          <p>Game Balance: {this.state.contractBalance} ETH</p>
         </footer>
       </div>
     );

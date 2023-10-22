@@ -40,7 +40,7 @@ export function Flip({ flip }) {
       <h1>Flip a Coin</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
-          <label>Amount of AVAX to bet:</label>
+          <label>Amount of ETH to bet:</label>
           <input
             className="form-control"
             type="number"
