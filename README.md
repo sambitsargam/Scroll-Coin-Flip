@@ -1,2 +1,2 @@
-# Avalanche-Coin-Flip
-A Coin Flip game on Avalanche FUJI C-Chain
+# Scroll-Coin-Flip
+A Coin Flip game on Scroll testnet

@@ -21,7 +21,7 @@ import coin from '../assets/coingif.gif'
 
 import '../index.css'
 
-const NETWORK_ID = '43113';
+const NETWORK_ID = '534351';
 // This is an error code that indicates that the user canceled a transaction
 const ERROR_CODE_TX_REJECTED_BY_USER = 4001;
 
